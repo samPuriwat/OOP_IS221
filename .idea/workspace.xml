@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="106d8dd0-db8a-4cfb-a64f-f9f49b789442" name="Default" comment="Testing upload to Github">
+    <list default="true" id="106d8dd0-db8a-4cfb-a64f-f9f49b789442" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_IS221/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_IS221/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_IS221/src/oop_lab/is221/rmutsv/com/HelloWorld.java" afterPath="$PROJECT_DIR$/../OOP_IS221/src/oop_lab/is221/rmutsv/com/HelloWorld.java" />
     </list>
@@ -18,8 +18,8 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_IS221/src/oop_lab/is221/rmutsv/com/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="285">
+              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511060789367</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Information">
+      <created>1511062378506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511062378506</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -287,7 +294,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing upload to Github" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing upload to Github" />
+    <MESSAGE value="Add Information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Information" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -296,8 +304,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../OOP_IS221/src/oop_lab/is221/rmutsv/com/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="285">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding />
         </state>
       </provider>

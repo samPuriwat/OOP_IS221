@@ -8,8 +8,8 @@ public static void main(String[] args) {
     System.out.println("Hello world, I'm SAM");
     System.out.println("My name is Puriwat Lertkrai");
 //    Add information
-    System.out.println("Faculty: Management Technology");
-    System.out.println("RMUTSV");
+    System.out.println("Faculty: Management Technology, RMUTSV");
+
 
 }//main
 
