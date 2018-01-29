@@ -2,12 +2,26 @@ package ooplab7;
 
 public class SuperCar {
     private String carBrand;
+    private String carColor;
     private String engSize;
+    //constructor
     public SuperCar(){}
-    public SuperCar(String c, String e){
-        this.carBrand = c;
+    public SuperCar(String b,String c, String e){
+
+        this.carBrand = b;
+        this.carColor = c;
         this.engSize =e;
     }
+
+    public String getCarColor() {
+        return carColor;
+    }
+
+    public void setCarColor(String carColor) {
+        this.carColor = carColor;
+    }
+
+    //getter and setter methods
     public String getCarBrand() {
         return carBrand;
     }
@@ -24,8 +38,13 @@ public class SuperCar {
         this.engSize = engSize;
     }
 
-    public void getSuperCarInfo(){
-        System.out.println("Super car brand: "+this.carBrand);
-        System.out.println("Engine Size: "+this.engSize);
+
+
+    public String getSuperCarInfo() {
+        return "SuperCar{" +
+                "carBrand='" + carBrand + '\'' +
+                ", carColor='" + carColor + '\'' +
+                ", engSize='" + engSize + '\'' +
+                '}';
     }
 }
