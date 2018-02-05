@@ -16,6 +16,10 @@ public class myPersonApp {
 
         System.out.println(person.toString());
 
+        person.getJob().setSalary(30000);
+
+        System.out.println(person.getJob());
+
 
     }
 }

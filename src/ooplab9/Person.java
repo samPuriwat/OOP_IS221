@@ -5,6 +5,17 @@ import ooplab9.Job;
 public class Person {
     private String personID;
     private String name;
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "personID='" + personID + '\'' +
+                ", name='" + name + '\'' +
+                ", address=" + address +
+                ", job=" + job +
+                '}';
+    }
+
     private Address address;
     private Job job;
 
