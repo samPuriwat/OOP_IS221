@@ -12,6 +12,10 @@ public class myPersonApp {
                 new Job("Teacher",
                         20000));
 
+
+
         System.out.println(person.toString());
+
+
     }
 }

@@ -1,4 +1,6 @@
 package ooplab9;
+import ooplab9.Address;
+import ooplab9.Job;
 
 public class Person {
     private String personID;
@@ -11,16 +13,6 @@ public class Person {
         this.name = name;
         this.address = address;
         this.job = job;
-    }
-
-    @Override
-    public String toString() {
-        return "Person{" +
-                "personID='" + personID + '\'' +
-                ", name='" + name + '\'' +
-                ", address=" + address +
-                ", job=" + job +
-                '}';
     }
 
     public String getPersonID() {
